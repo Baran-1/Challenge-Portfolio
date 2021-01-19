@@ -18,7 +18,7 @@ Het doel van het uitwerken van een opdracht in een boomstructuur en wireframe is
    * Het voordeel van zo'n boomstructuur is dat je het sneller kan maken dan een werkende website. Je kunt dan over de structuur praten met teamleden of een opdrachtgever zonder tijd te verliezen met een gedailleerde technische uitwerking.
         > Maak het dus niet té gedetailleerd maar zorg dat er precies genoeg informatie in staat zodat het idee achter je werk duidelijk is voor een ander en je daar dus over kan discussieren.
 2. **Maak een wireframe** van je portfolio website.
-   * Een wireframe is een visuele representatie van je project. De bedoeling is om het eindresultaat te schetsen zodat je keuzes op het gebied van plaatsing van elementen, gekozen kleuren of gekozen lettertypen kan laten zien aan een opdrachtgever en daarover kan praten.  
+   * Een wireframe is een visuele representatie van je project. De bedoeling is om het eindresultaat te schetsen zodat je keuzes op hete gebid van plaatsing van elementen, gekozen kleuren of gekozen lettertypen kan laten zien aan een opdrachtgever en daarover kan praten.  
         > Net zoals bij de boomstructuur is het belangrijk dat je niet té gedetailleerd te werk gaat.
 
 ### :zap: Beoordeling
