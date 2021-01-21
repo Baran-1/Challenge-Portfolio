@@ -23,4 +23,4 @@
 | ...         |                                                |                     |        |
 | Presenteren |                                                     2:10  |                     |        |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                        1 uur  |                    |        |
+| Refecteren  | Reflectiedocument schrijven                        1 uur  .|                    |        |
