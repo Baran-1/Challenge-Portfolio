@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 12:00            | Bezig  |                                                       20 min
-| Ontwerpen   | Mockup van portfolio maken                       13:00        |                     |        |
-| ...         | Styling van elementen bepalen                   2 uur         |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                       13:00   1 uur     |                     |        |
+| ...         | Styling van elementen bepalen                   15:00  2 uur         |                     |        |
 | Realiseren  | Bestanden aanmaken                                 1 uur  |                     |        |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                                 15:00 |                     |        |
+| Testen      | Applicatie testen                                 18:00 30 min |                     |        |
 | ...         |                                                |                     |        |
 | Verbeteren Problemen gevonden tijdens het testen oplosse 3uur                      |        |
 | ...         |                                                |                     |        |
 | Presenteren |                                                     2:10  |                     |        |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                        1 uur  .|                    |        |
+| Refecteren  | Reflectiedocument schrijven                         10 min |                    |        |
