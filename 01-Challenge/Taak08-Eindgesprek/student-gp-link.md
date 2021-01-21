@@ -4,4 +4,4 @@ Student : `studentnaam`
 
 Klas    : `klascode`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : [Baran Demir portfolio](https://baran-1.github.io/Challenge-Portfolio/portfolio/)
